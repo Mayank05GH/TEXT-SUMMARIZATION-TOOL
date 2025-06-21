@@ -20,3 +20,7 @@ This task was an excellent exercise in applying NLP concepts and working with pr
 
 By completing this task, I gained practical experience in working with modern AI libraries, handling large models, and creating user-friendly output presentations. The entire project is well-documented and shared through my GitHub repository, which includes the Python script, the detailed README.md, and clear screenshots showcasing the working results, fulfilling all requirements of my CodTech AI internship.
 
+#OUTPUT
+
+
+
