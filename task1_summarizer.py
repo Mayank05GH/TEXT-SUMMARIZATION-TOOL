@@ -24,3 +24,6 @@ print("=== Input Text ===")
 print(text)
 print("\n=== Generated Summary ===")
 print(summary[0]['summary_text'])
+with open("summary_output.txt", "w") as f:
+    f.write(summary[0]['summary_text'])
+
